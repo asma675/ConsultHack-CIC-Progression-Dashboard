@@ -1,6 +1,6 @@
 # CIC Progression Dashboard (Glow UI) — Full Demo
 
-## What you get
+## What's included
 - Next.js (App Router) + Tailwind
 - Tier-based access (Explorer / Practitioner / Collaborator / Leader)
 - Admin console + View-As
